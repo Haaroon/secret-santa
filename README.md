@@ -39,31 +39,14 @@ Here is the example configuration unchanged:
       - Bill <Bill@somedomain.net>
       - Sharon <Sharon@hi.org>
 
-    # Warning -- if you mess this up you could get an infinite loop
-    DONT-PAIR:
-      - Chad, Jen    # Chad and Jen are married
-      - Chad, Bill   # Chad and Bill are best friends
-      - Bill, Sharon
-
     # From address should be the organizer in case participants have any questions
     FROM: You <you@gmail.net>
 
     # Both SUBJECT and MESSAGE can include variable substitution for the 
     # "santa" and "santee"
-    SUBJECT: Your secret santa recipient is {santee}
+    SUBJECT: Your secret santa recipient is ...
     MESSAGE: 
-      Dear {santa},
-
-      This year you are {santee}'s Secret Santa!. Ho Ho Ho!
-
-      The maximum spending limit is 50.00
-
-
-      This message was automagically generated from a computer. 
-
-      Nothing could possibly go wrong...
-
-      http://github.com/underbluewaters/secret-santa
+      see cat_html.py file
 
 Once configured, call secret-santa:
 
