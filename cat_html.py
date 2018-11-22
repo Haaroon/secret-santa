@@ -47,13 +47,13 @@ msg = "<html><head></head><body><div role=\"document\">  <div class=\"_rp_U4 _rp
  --></style>\
 <div>\
 <div class=\"x_clean-body\" style=\"margin:0; padding:0; background-color:#FFFFFF\">\
-<div><img data-imagetype=\"External\" src=\"http://post.spmailtechnol.com/q/IoIzAcDGhz_-zukiM1tnxQ~~/AAISiQA~/RgRcAUSEPVcDc3BjWAQAAAAAQgoABYi_Hlq49Cw5QQgBbQ2r99HRJVkGc3dpcGlpYQZzd2lwaWlgDDM0LjIxMS4yNy4zOUgEMzcxOVIbaGFhcm9vbi55b3VzYWYuMTdAdWNsLmFjLnVrCVEEAAAAAEcUeyJlbWFpbF91aWQiOiIzNzE5In0~\" alt=\"\" width=\"1\" height=\"1\" border=\"0\"></div>\
+<div><img data-imagetype=\"External\" src=\"https://raw.githubusercontent.com/Haaroon/secret-santa/master/background_snow.gif\" alt=\"\" width=\"1\" height=\"1\" border=\"0\"></div>\
 <style type=\"text/css\"><!--  --></style>\
 <table class=\"x_nl-container\" style=\"border-collapse:collapse; table-layout:fixed; border-spacing:0; vertical-align:top; min-width:320px; margin:0 auto; background-color:#FFFFFF; width:100%\" cellspacing=\"0\" cellpadding=\"0\">\
 <tbody>\
 <tr style=\"vertical-align:top\">\
 <td style=\"word-break:break-word; border-collapse:collapse!important; vertical-align:top\">\
-<div style=\"background-image:url('https://pro-bee-user-content-eu-west-1.s3.amazonaws.com/public/users/Integrators/64f54304-c721-42a6-a321-be83727879f4/rg-907/giphy%20%283%29.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
+<div style=\"background-image:url('https://raw.githubusercontent.com/Haaroon/secret-santa/master/background_snow.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
 <div class=\"x_block-grid\" style=\"margin:0 auto; min-width:320px; max-width:500px; word-wrap:break-word; word-break:break-word; background-color:transparent\">\
 <div style=\"border-collapse:collapse; display:table; width:100%; background-color:transparent\">\
 <div class=\"x_col x_num12\" style=\"min-width:320px; max-width:500px; display:table-cell; vertical-align:top\">\
@@ -70,7 +70,7 @@ msg = "<html><head></head><body><div role=\"document\">  <div class=\"_rp_U4 _rp
 </div>\
 </div>\
 </div>\
-<div style=\"background-image:url('https://pro-bee-user-content-eu-west-1.s3.amazonaws.com/public/users/Integrators/64f54304-c721-42a6-a321-be83727879f4/rg-907/giphy%20%283%29.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
+<div style=\"background-image:url('https://raw.githubusercontent.com/Haaroon/secret-santa/master/background_snow.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
 <div class=\"x_block-grid\" style=\"margin:0 auto; min-width:320px; max-width:500px; word-wrap:break-word; word-break:break-word; background-color:#FFFFFF\">\
 <div style=\"border-collapse:collapse; display:table; width:100%; background-color:#FFFFFF\">\
 <div class=\"x_col x_num12\" style=\"min-width:320px; max-width:500px; display:table-cell; vertical-align:top\">\
@@ -84,7 +84,7 @@ msg = "<html><head></head><body><div role=\"document\">  <div class=\"_rp_U4 _rp
 </div>\
 </div>\
 </div>\
-<div style=\"background-image:url('https://pro-bee-user-content-eu-west-1.s3.amazonaws.com/public/users/Integrators/64f54304-c721-42a6-a321-be83727879f4/rg-907/giphy%20%283%29.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
+<div style=\"background-image:url('https://raw.githubusercontent.com/Haaroon/secret-santa/master/background_snow.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
 <div class=\"x_block-grid\" style=\"margin:0 auto; min-width:320px; max-width:500px; word-wrap:break-word; word-break:break-word; background-color:#FFFFFF\">\
 <div style=\"border-collapse:collapse; display:table; width:100%; background-color:#FFFFFF\">\
 <div class=\"x_col x_num12\" style=\"min-width:320px; max-width:500px; display:table-cell; vertical-align:top\">\
@@ -98,7 +98,7 @@ msg = "<html><head></head><body><div role=\"document\">  <div class=\"_rp_U4 _rp
 </div>\
 </div>\
 </div>\
-<div style=\"background-image:url('https://pro-bee-user-content-eu-west-1.s3.amazonaws.com/public/users/Integrators/64f54304-c721-42a6-a321-be83727879f4/rg-907/giphy%20%283%29.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
+<div style=\"background-image:url('https://raw.githubusercontent.com/Haaroon/secret-santa/master/background_snow.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
 <div class=\"x_block-grid x_mixed-two-up\" style=\"margin:0 auto; min-width:320px; max-width:500px; word-wrap:break-word; word-break:break-word; background-color:#FFFFFF\">\
 <div style=\"border-collapse:collapse; display:table; width:100%; background-color:#FFFFFF\">\
 <div class=\"x_col x_num8\" style=\"display:table-cell; vertical-align:top; min-width:320px; max-width:328px\">\
@@ -119,7 +119,7 @@ msg = "<html><head></head><body><div role=\"document\">  <div class=\"_rp_U4 _rp
 </div>\
 </div>\
 </div>\
-<div style=\"background-image:url('https://pro-bee-user-content-eu-west-1.s3.amazonaws.com/public/users/Integrators/64f54304-c721-42a6-a321-be83727879f4/rg-907/giphy%20%283%29.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
+<div style=\"background-image:url('https://raw.githubusercontent.com/Haaroon/secret-santa/master/background_snow.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
 <div class=\"x_block-grid\" style=\"margin:0 auto; min-width:320px; max-width:500px; word-wrap:break-word; word-break:break-word; background-color:#FFFFFF\">\
 <div style=\"border-collapse:collapse; display:table; width:100%; background-color:#FFFFFF\">\
 <div class=\"x_col x_num12\" style=\"min-width:320px; max-width:500px; display:table-cell; vertical-align:top\">\
@@ -127,7 +127,7 @@ msg = "<html><head></head><body><div role=\"document\">  <div class=\"_rp_U4 _rp
 <div style=\"border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:30px; padding-right:0px; padding-left:0px\">\
 <div style=\"color: rgb(85, 85, 85); line-height: 120%; font-family: &quot;Roboto&quot;, Tahoma, Verdana, Segoe, sans-serif, serif, &quot;EmojiFont&quot;; padding: 10px;\">\
 <div style=\"font-size: 12px; line-height: 14px; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif, serif, &quot;EmojiFont&quot;; color: rgb(85, 85, 85); text-align: left;\">\
-<p style=\"margin:0; font-size:12px; line-height:14px; text-align:center\"><span style=\"font-size:14px; line-height:16px; color:rgb(51,51,51)\"><img src=\"https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.oPm270H1AIkrH0a8ejs9kAEsDh%26pid%3D15.1&amp;f=1\" alt=\"xmas-cat\" <=\"\" span=\"\" width=\"350\" height=\"250\"></span></p><p style=\"margin:0; font-size:12px; line-height:14px; text-align:center\"><span style=\"font-size:14px; line-height:16px; color:rgb(51,51,51)\"><br>\
+<p style=\"margin:0; font-size:12px; line-height:14px; text-align:center\"><span style=\"font-size:14px; line-height:16px; color:rgb(51,51,51)\"><img src=\"https://raw.githubusercontent.com/Haaroon/secret-santa/master/cat.png\" alt=\"xmas-cat\" <=\"\" span=\"\" width=\"350\" height=\"250\"></span></p><p style=\"margin:0; font-size:12px; line-height:14px; text-align:center\"><span style=\"font-size:14px; line-height:16px; color:rgb(51,51,51)\"><br>\
 </span></p>\
 <p style=\"margin:0; font-size:12px; line-height:14px; text-align:center\"><span style=\"font-size:14px; line-height:16px; color:rgb(51,51,51)\"></span></p>"
 
@@ -157,7 +157,7 @@ msg3 = "<p style=\"margin:0; font-size:12px; line-height:14px; text-align:center
 </div>\
 </div>\
 </div>\
-<div style=\"background-image:url('https://pro-bee-user-content-eu-west-1.s3.amazonaws.com/public/users/Integrators/64f54304-c721-42a6-a321-be83727879f4/rg-907/giphy%20%283%29.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
+<div style=\"background-image:url('https://raw.githubusercontent.com/Haaroon/secret-santa/master/background_snow.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
 <div class=\"x_block-grid\" style=\"margin:0 auto; min-width:320px; max-width:500px; word-wrap:break-word; word-break:break-word; background-color:#135700\">\
 <div style=\"border-collapse:collapse; display:table; width:100%; background-color:#135700\">\
 <div class=\"x_col x_num12\" style=\"min-width:320px; max-width:500px; display:table-cell; vertical-align:top\">\
@@ -166,7 +166,7 @@ msg3 = "<p style=\"margin:0; font-size:12px; line-height:14px; text-align:center
 </div>\
 </div>\
 </div>\
-<div style=\"background-image:url('https://pro-bee-user-content-eu-west-1.s3.amazonaws.com/public/users/Integrators/64f54304-c721-42a6-a321-be83727879f4/rg-907/giphy%20%283%29.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
+<div style=\"background-image:url('https://raw.githubusercontent.com/Haaroon/secret-santa/master/background_snow.gif'); background-position:top left; background-repeat:repeat; background-color:#135700\">\
 <div class=\"x_block-grid\" style=\"margin:0 auto; min-width:320px; max-width:500px; word-wrap:break-word; word-break:break-word; background-color:transparent\">\
 <div style=\"border-collapse:collapse; display:table; width:100%; background-color:transparent\">\
 <div class=\"x_col x_num12\" style=\"min-width:320px; max-width:500px; display:table-cell; vertical-align:top\">\
@@ -187,7 +187,7 @@ msg3 = "<p style=\"margin:0; font-size:12px; line-height:14px; text-align:center
 </tr>\
 </tbody>\
 </table>\
-<img data-imagetype=\"External\" src=\"http://post.spmailtechnol.com/q/cFsh9ItsIlj4PV75FZbzqQ~~/AAISiQA~/RgRcAUSEPlcDc3BjWAQAAAAAQgoABYi_Hlq49Cw5QQgBbQ2r99HRJVkGc3dpcGlpYQZzd2lwaWlgDDM0LjIxMS4yNy4zOUgEMzcxOVIbaGFhcm9vbi55b3VzYWYuMTdAdWNsLmFjLnVrCVEEAAAAAEcUeyJlbWFpbF91aWQiOiIzNzE5In0~\" alt=\"\" width=\"1\" height=\"1\" border=\"0\"> </div>\
+<img data-imagetype=\"External\" src=\"https://raw.githubusercontent.com/Haaroon/secret-santa/master/background_snow.gif\" alt=\"\" width=\"1\" height=\"1\" border=\"0\"> </div>\
 \
 </div>\
 </div></div> <div style=\"display: none;\" class=\"_rp_d5\"></div> </div>  <span class=\"PersonaPaneLauncher\"><div ariatabindex=\"-1\" class=\"_pe_d _pe_62\" aria-expanded=\"false\" tabindex=\"-1\" aria-haspopup=\"false\">  <div style=\"display: none;\"></div> </div></span> </div></body></html>"
