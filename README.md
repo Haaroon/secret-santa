@@ -1,3 +1,9 @@
+This is the message that is sent
+======
+
+![Preview](https://raw.githubusercontent.com/Haaroon/secret-santa/master/preview.gif)
+
+
 Intro
 =====
 
@@ -47,6 +53,9 @@ Here is the example configuration unchanged:
     SUBJECT: Your secret santa recipient is ...
     MESSAGE: 
       see cat_html.py file
+      
+With the config you can also blacklist, so certain pairs are not made. 
+But becareful as that may cause an infinite loop, so run a test before. 
 
 Once configured, call secret-santa:
 
